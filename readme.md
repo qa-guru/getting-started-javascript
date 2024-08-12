@@ -3,6 +3,7 @@
 ## Как готовится?
 [Программа курса][program]
 
+[Настрой рабочее место][localEnv]
 ### Программирование
 По желанию до начала занятий можно: 
 - [codebasic] - Бесплатный курс по Javascript
@@ -89,4 +90,5 @@ mindmap
 [chat]: https://t.me/qa_guru_chat
 [codebasic]: <https://code-basics.com/ru/languages/javascript>
 [git]:  https://ru.hexlet.io/courses/intro_to_git
+[localEnv]:  ./instructions/localEnv.md
 [program]:  educationProgram.md
