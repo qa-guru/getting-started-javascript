@@ -31,10 +31,10 @@ npm init playwright@latest
 ```
 
 На предложенные инсталлятором вопросы выберите:
-Choose between TypeScript or JavaScript (default is TypeScript) - JavaScript
-Name of your Tests folder (default is tests or e2e if you already have a tests folder in your project) - оставляем tests
-Add a GitHub Actions workflow to easily run tests on CI - no
-Install Playwright browsers (default is true) - true
+- Choose between TypeScript or JavaScript (default is TypeScript) - **JavaScript**
+- Name of your Tests folder (default is tests or e2e if you already have a tests folder in your project) - **оставляем tests**
+- Add a GitHub Actions workflow to easily run tests on CI - **no**
+- Install Playwright browsers (default is true) - **true**
 
 
 Playwright устанавливает демо проект с примером тестов, запустить их можно с помощью команды
