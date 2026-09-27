@@ -1,0 +1,10 @@
+{
+  "name": "getting-started-javascript",
+  "type": "module",
+  "dependencies": {
+    "selenium-webdriver": "4.49.0"
+  },
+  "scripts": {
+    "test": "node github_should_find_selenium.js"
+  }
+}
